@@ -2,4 +2,4 @@
 
 [https://hyper.is/](https://hyper.is/)
 
-![image](alfred-zeit-hyper.png)
+![image](alfred-hyper.png)
