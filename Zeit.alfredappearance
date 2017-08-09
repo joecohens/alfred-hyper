@@ -9,12 +9,12 @@
         "color" : "#FFFFFF66"
       },
       "shortcut" : {
-        "size" : 14,
+        "size" : 13,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System",
         "color" : "#CC00FFFF"
       },
-      "backgroundSelected" : "#333333FF",
+      "backgroundSelected" : "#444444FF",
       "text" : {
         "size" : 18,
         "colorSelected" : "#FFFFFFFF",
@@ -41,8 +41,8 @@
       "color" : "#000000FF",
       "paddingHorizontal" : 8,
       "width" : 559,
-      "borderPadding" : 1,
-      "borderColor" : "#333333FF",
+      "borderPadding" : 2,
+      "borderColor" : "#999999FF",
       "blur" : 15,
       "roundness" : 3,
       "paddingVertical" : 8
@@ -53,7 +53,7 @@
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#6D6D6DFF",
+      "color" : "#444444FF",
       "thickness" : 2
     },
     "name" : "Zeit"
